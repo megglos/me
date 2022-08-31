@@ -9,7 +9,7 @@ I originally discovered this idea in the Handbook of [Gitlab](https://about.gitl
 ## About me
 
 Hey, my name is Sebastian Bathke, Engineering Manager at Camunda.
-Most friends, family and - since I joined Camunda - also colleagues actually call me Meggle. The name originates from my teenage years where a friend after having one beer to much started calling me like this, referring to a company that produces [butter](https://www.meggle.de/fileadmin/_processed_/sei/p164/se-image-ee5765b14b2b1a0c7f2b6ac804906a02.jpg). Eventually the usage of this name spread and became a default since then, the exact details are somewhat blurry ¯\_(ツ)_/¯.
+Most friends, family and - since I joined Camunda - also colleagues actually call me Meggle. The name originates from my teenage years where a friend after having one beer to much started calling me like this, referring to a [butter brand](https://www.meggle.de/fileadmin/_processed_/sei/p164/se-image-ee5765b14b2b1a0c7f2b6ac804906a02.jpg). Eventually the usage of this name spread and became a default since then, the exact details are somewhat blurry ¯\_(ツ)_/¯.
 
 I live in Potsdam right at the doorsteps of Berlin but only moved here mid 2021. Beforehand I lived in Berlin Kreuzberg for about 10 years. I'm originally from a small town in the central eastern part of Germany.
 
