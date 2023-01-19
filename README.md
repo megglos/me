@@ -17,8 +17,9 @@ Privately I'm heavily interested in Gaming (all Platforms, new titles as well as
 
 ## My working style
 
-- I like to give trust to people I work with fostering autonomy while sharing responsibility - having each others backs
+- I like to give trust by default to people I work with fostering autonomy while sharing responsibility - having each others backs
 - I appreciate direct dead honest feedback, if something isn't working well let me know rather sooner than later
+  - even if you are emotional - unless I have a bad day, I'm usually able empathise and not take it personally
 - I have a tendency to think of potential technical solutions quite early and jump on them - I appreciate working with colleagues who act as a counterweight and challenge me in such situations with different perspectives and angles
 - I like to be of help - if something comes up that other people are dependent on I tend to prioritize it very high and get to it, even if that increases the risk of me not achieving my own goals for a day/week etc. - this can be unfortunate if I misunderstood the actual urgency/importance of a request - best always be clear on severity/urgency and expectations
 - In regards to engineering management I personally resonate with the [Servant leadership](https://en.wikipedia.org/wiki/Servant_leadership) philosophy
